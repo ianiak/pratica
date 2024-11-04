@@ -19,6 +19,7 @@ main h2{
 .container{
     display: flex;
     margin: 0px 150px;
+    
 }
 .container img{
     margin: 0px 40px;
@@ -41,6 +42,7 @@ main h2{
     background-color: #E6C744;
     display: flex;
     height: 96vh;
+    margin-top: 50px;
 }
 .content{
     flex-direction: column;
@@ -55,7 +57,7 @@ main h2{
     margin: 0px 70px
 }
 .mainfooter{
-    margin-top: 10%;
+
     margin-left: 250px
 }
 .mainfooter ul{
@@ -112,3 +114,6 @@ button:hover{
     scale: 1.2;
 }
 
+.friday img{
+    width: 80%;
+}
